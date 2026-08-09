@@ -1,7 +1,7 @@
 package Java_6;
 import java.util.HashSet;
 import java.util.Scanner;
-public class JavaSetManagerwithValidationandClassification {
+public class StudentSetManager {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         HashSet<Integer> studentIds = new HashSet<>();
